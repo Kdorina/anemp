@@ -3,7 +3,7 @@
 const dowButton = document.querySelector("#dowButton")
 const addButton = document.querySelector("#addButton")
 const empTable = document.querySelector("#empTable")
-const empName = document.querySelector("#empName");
+const empName = document.querySelector("#name");
 
 
 const host = "http://localhost:3000";
